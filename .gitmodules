@@ -1,9 +1,9 @@
 [submodule "module/PcbRouter"]
 	path = module/PcbRouter
-	url = https://github.com/The-OpenROAD-Project/PcbRouter.git
+	url = https://github.com/32bitmicro/PcbRouter.git
 [submodule "module/KicadParser"]
 	path = module/KicadParser
-	url = https://github.com/The-OpenROAD-Project/KicadParser.git
+	url = https://github.com/32bitmicro/KicadParser.git
 [submodule "module/SA-PCB"]
 	path = module/SA-PCB
-	url = https://github.com/The-OpenROAD-Project/SA-PCB.git
+	url = https://github.com/32bitmicro/SA-PCB.git
