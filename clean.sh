@@ -6,7 +6,7 @@ LIBDIR=./ucsdpcb
 BUILDDIR=./build
 
 rm -r ${BUILDDIR}/*
-rm ${LIBDIR}/*
+rm -r ${LIBDIR}/*
 
 while [ $# -ne 0 ]
 do

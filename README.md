@@ -41,12 +41,17 @@ source build.sh
 
 The layout app is now available:
 ```
+export PYTHONPATH=$PYTHONPATH:.
 python3 run_layout.py --help
 ```
 
 Have fun!
 
 ## Running the tests
+
+```
+tests/regression-py.sh
+```
 
 ## Current issues
 
